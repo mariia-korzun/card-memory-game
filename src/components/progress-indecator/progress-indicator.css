@@ -1,0 +1,17 @@
+.progress-indicator {
+    height: 10px;
+    background-color: chartreuse;
+   
+}
+
+.progress-indicator-enter {
+    width: 0;
+  }
+  .progress-indicator-enter-active {
+    width: 100vw;
+    transition: width 20000ms linear;
+  }
+
+  /* .progress-indicator-enter-done{
+
+  } */

@@ -1,0 +1,13 @@
+.start-button-container{
+    text-align: center;
+}
+
+.start-button {
+    border: 2px solid darkgreen;
+    background-color: darkred;
+    border-radius: 5px;
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 1.5rem;
+    margin-top: 50px;
+    cursor: pointer;
+}
